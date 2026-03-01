@@ -3,7 +3,6 @@
 # HackBridge - AI-Powered Offensive Security Bridge
 # This script connects the MCP AI agent to a Linux terminal and API Server.
 
-# some of the code here was inspired from https://github.com/whit3rabbit0/project_astro , be sure to check them out
 
 import sys
 import os
@@ -338,3 +337,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

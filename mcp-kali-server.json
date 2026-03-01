@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "hackbridge": {
+      "command": "python3",
+      "args": [
+        "/absolute/path/to/mcp_server.py",
+        "--server",
+        "http://LINUX_IP:5000/"
+      ],
+      "description": "HackBridge - AI-Powered Offensive Security Bridge",
+      "timeout": 600,
+      "alwaysAllow": []
+    }
+  }
+}

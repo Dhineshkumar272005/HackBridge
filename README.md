@@ -13,16 +13,6 @@ HackBridge enables AI-driven offensive security by:
 - Letting AI suggest, run, and analyze terminal commands to solve CTF challenges or automate recon/exploitation tasks.
 - Allowing MCP apps to send structured requests (e.g., `nmap`, `ffuf`, `curl`) and receive parsed outputs.
 
-Here are some examples from my testing (using Google's AI `Gemini 2.0 Flash`):
-
-### Example: Solving a Web CTF Challenge in RamadanCTF
-
-https://github.com/user-attachments/assets/dc93b71d-9a4a-4ad5-8079-2c26c04e5397
-
-### Example: Attempting to Solve Machine "Code" from HTB
-
-https://github.com/user-attachments/assets/3ec06ff8-0bdf-4ad5-be71-2ec490b7ee27
-
 ---
 
 ## 🚀 Features

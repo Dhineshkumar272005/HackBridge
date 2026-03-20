@@ -198,10 +198,3 @@ Since the AI model can now execute commands on the terminal, the possibilities g
 - **OSINT & Recon** — Automate recon workflows using tools like `theHarvester`, `amass`, `subfinder`, etc.
 - **Log Analysis** — Parse and analyze security logs, access logs, or system logs.
 
----
-
-## ⚠️ Disclaimer
-
-This project is intended solely for **educational and ethical testing purposes**. Any misuse of the information or tools provided — including unauthorized access, exploitation, or malicious activity — is **strictly prohibited**.
-
-The author assumes no responsibility for misuse.

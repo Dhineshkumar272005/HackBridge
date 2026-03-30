@@ -2,7 +2,7 @@
 
 **HackBridge** is a lightweight MCP (Model Context Protocol) bridge that connects AI clients (e.g., Claude Desktop, [5ire](https://github.com/nanbingxyz/5ire)) to a Linux terminal API server — enabling **AI-assisted penetration testing**, **CTF challenge solving**, and **automated recon/exploitation** in real time.
 
-Run terminal commands like `nmap`, `nxc`, `sqlmap`, or any other tool. Interact with web applications using `curl`, `wget`, `gobuster`. Let the AI drive your offensive security workflow — from enumeration to exploitation.
+Run terminal commands like `nmap`, `sqlmap`, or any other tool. Interact with web applications using `curl`, `wget`, `gobuster`. Let the AI drive your offensive security workflow — from enumeration to exploitation.
 
 ## 🔍 Use Case
 
